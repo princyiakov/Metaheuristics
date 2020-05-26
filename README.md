@@ -1,12 +1,12 @@
-# Metaheuristics
+# Metaheuristics DSTI Assignment 
 
 # Objectitve : solve different problems using metaheuristics
 
 ## Discrete Optimization Problem 
 
-1. [TSP_Djibouti](https://github.com/Khwansiri/Metaheuristic_DSTI/tree/master/TSP_Djibouti)
+1. [TSP_Djibouti](https://github.com/princys-lab/Metaheuristics/tree/master/TSP_Djibouti)
 
-2. [TSP_Qatar](https://github.com/Khwansiri/Metaheuristic_DSTI/tree/master/TSP_Qatar)
+2. [TSP_Qatar](https://github.com/princys-lab/Metaheuristics/tree/master/TSP_Qatar)
 
 ## Continuous Optimization Problems : 
 
