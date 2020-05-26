@@ -15,7 +15,7 @@
 1.  [Shifted Sphere Function](https://github.com/princys-lab/Metaheuristics/tree/master/F1_Shifted%20Sphere%20Function)    
   
    
-2. [Shifted Schwefel's Problem 2.21](https://github.com/princys-lab/Metaheuristics/tree/master/F2_Schwefel%E2%80%99s%20Problem)       
+2. [Shifted Schwefel's Problem](https://github.com/princys-lab/Metaheuristics/tree/master/F2_Schwefel%E2%80%99s%20Problem)       
      
    
 3. [Shifted Rosenbrock's Function](https://github.com/princys-lab/Metaheuristics/tree/master/F3_Shifted%20Rosenbrock%E2%80%99s%20Function)    
