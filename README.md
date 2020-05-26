@@ -12,21 +12,21 @@
 
  
    
-1.  [Shifted Sphere Function](https://github.com/Khwansiri/Metaheuristic_DSTI/tree/master/Shifted%20Sphere%20Function)    
+1.  [Shifted Sphere Function](https://github.com/princys-lab/Metaheuristics/tree/master/F1_Shifted%20Sphere%20Function)    
   
    
-2. [Shifted Schwefel's Problem 2.21](https://github.com/Khwansiri/Metaheuristic_DSTI/tree/master/Shifted%20Schwefel's%20Problem%202.21)       
+2. [Shifted Schwefel's Problem 2.21](https://github.com/princys-lab/Metaheuristics/tree/master/F2_Schwefel%E2%80%99s%20Problem)       
      
    
-3. [Shifted Rosenbrock's Function](https://github.com/Khwansiri/Metaheuristic_DSTI/tree/master/Shifted%20Rosenbrock's%20Function)    
+3. [Shifted Rosenbrock's Function](https://github.com/princys-lab/Metaheuristics/tree/master/F3_Shifted%20Rosenbrock%E2%80%99s%20Function)    
         
    
-4.  [Shifted Rastrigin's Function](https://github.com/Khwansiri/Metaheuristic_DSTI/tree/master/Shifted%20Rastrigin's%20Function)    
+4.  [Shifted Rastrigin's Function](https://github.com/princys-lab/Metaheuristics/tree/master/F4_Shifted%20Rastrigin%E2%80%99s%20Function)    
       
    
-5. [Shifted Griewank's Function](https://github.com/Khwansiri/Metaheuristic_DSTI/tree/master/Shifted%20Griewank's%20Function)       
+5. [Shifted Griewank's Function](https://github.com/princys-lab/Metaheuristics/tree/master/F5_Shifted%20Griewank%E2%80%99s%20Function)       
       
    
-6.  [Shifted Ackley's Function](https://github.com/Khwansiri/Metaheuristic_DSTI/tree/master/Shifted%20Ackley's%20Function)    
+6.  [Shifted Ackley's Function](https://github.com/princys-lab/Metaheuristics/tree/master/F6_Shifted%20Ackley%E2%80%99s%20Function)    
    
  
