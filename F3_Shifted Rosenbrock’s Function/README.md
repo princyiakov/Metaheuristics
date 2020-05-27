@@ -36,9 +36,9 @@ I attempted to minimize the function using various algorithms like Differential 
 | Result     |          |     | |
 |------------|----------|-----|--|
 |Factors | DE         | SA       | SADE|
-| Best Fitness  | 390 |808.33||
-| Number of Evaluations | 279750 |10150||
-| Computational Time| 41.69 seconds |1.47 seconds|50.23 seconds|
+| Best Fitness  | 390 |808.33|477.008|
+| Number of Evaluations | 279750 |10150|300150|
+| Computational Time| 41.69 seconds |1.47 seconds|43.57 seconds|
 
 #### Best Solution  : 
 [ 97.24993638  77.06098421 -19.03114778  25.42869932 -22.90880332
