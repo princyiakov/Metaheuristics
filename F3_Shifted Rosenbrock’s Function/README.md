@@ -21,7 +21,7 @@ I attempted to minimize the function using various algorithms like Differential 
 | Upper Limit | 100 |
 | f_bias | 390 |
 | Stopping Criteria  | 1e-5|
-| Geneartions  | 1e-5|
+| Generations  | 2000|
 | Crossover  | 0.95|
 | Weighing Factor  | 0.6|
 | Varient  | 3|
@@ -29,7 +29,8 @@ I attempted to minimize the function using various algorithms like Differential 
 
 
 ### Convergence Graph D =50
-| DE                                                                                                                                    | SA                                                                                                                                    | SADE|
+| DE         | SA       | SADE|
+|------------|----------|-----|
 | <image src = "https://github.com/princys-lab/Metaheuristics/blob/master/F1_Shifted%20Sphere%20Function/ConvergenceCurve50.PNG" width = "500"> | <image src = "https://github.com/princys-lab/Metaheuristics/blob/master/F1_Shifted%20Sphere%20Function/ConvergenceCurve50.PNG" width = "500">|<image src = "https://github.com/princys-lab/Metaheuristics/blob/master/F1_Shifted%20Sphere%20Function/ConvergenceCurve50.PNG" width = "500">|
   
 | Result   | | 
