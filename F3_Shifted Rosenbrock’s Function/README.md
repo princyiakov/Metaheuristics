@@ -36,10 +36,10 @@ I attempted to minimize the function using various algorithms like Differential 
 | Result     |          |     | |
 |------------|----------|-----|--|
 |Factors | DE         | SA       | SADE|
-|------------|----------|-----|
-| Best Fitness  | -450 |
-| Number of Evaluations | 520 |
-| Computational Time| 0.46 seconds |
+|------------|----------|-----|----|
+| Best Fitness  | -450 |||
+| Number of Evaluations | 520 |||
+| Computational Time| 0.46 seconds |||
 
 #### Best Solution  : 
 [ 97.24993638  77.06098421 -19.03114778  25.42869932 -22.90880332
