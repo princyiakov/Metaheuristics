@@ -36,6 +36,7 @@ I attempted to minimize the function using various algorithms like Differential 
 | Result                      |
 |------------|----------|-----|
 | DE         | SA       | SADE|
+|------------|----------|-----|
 | Best Fitness  | -450 |
 | Number of Evaluations | 520 |
 | Computational Time| 0.46 seconds |
