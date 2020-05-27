@@ -33,9 +33,9 @@ I attempted to minimize the function using various algorithms like Differential 
 |------------|----------|-----|
 | <image src = "https://github.com/princys-lab/Metaheuristics/blob/master/F3_Shifted%20Rosenbrock%E2%80%99s%20Function/ConvergenceCurve50de.PNG" width = "500"> | <image src = "https://github.com/princys-lab/Metaheuristics/blob/master/F3_Shifted%20Rosenbrock%E2%80%99s%20Function/ConvergenceCurve50sa.PNG" width = "500">|<image src = "https://github.com/princys-lab/Metaheuristics/blob/master/F3_Shifted%20Rosenbrock%E2%80%99s%20Function/ConvergenceCurve50sade.PNG" width = "500">|
   
-| Result                      |
-|------------|----------|-----|
-| DE         | SA       | SADE|
+| Result     |          |     | |
+|------------|----------|-----|--|
+|Factors | DE         | SA       | SADE|
 |------------|----------|-----|
 | Best Fitness  | -450 |
 | Number of Evaluations | 520 |
