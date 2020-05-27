@@ -1,4 +1,4 @@
-## [*Rosenbrocks* function](http://benchmarkfcns.xyz/benchmarkfcns/spherefcn.html)
+## [*Rosenbrocks* function](http://benchmarkfcns.xyz/benchmarkfcns/rosenbrockfcn.html)
 
 ### Mathematical statement
 
