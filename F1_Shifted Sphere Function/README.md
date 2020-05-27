@@ -2,10 +2,11 @@
 
 ### Mathematical statement
 
-<image src = "https://github.com/princys-lab/Metaheuristics/blob/master/F1_Shifted%20Sphere%20Function/F1_MathematicalExp.PNG" width = "700">
+<image src = "https://github.com/princys-lab/Metaheuristics/blob/master/F1_Shifted%20Sphere%20Function/F1_MathematicalExp.PNG" width = "500">
 
+### Graphical representation
 
-
+<image src = "https://github.com/princys-lab/Metaheuristics/blob/master/F1_Shifted%20Sphere%20Function/F1_GraphicalExp.PNG" width = "500">
 
 ### Solution
 
