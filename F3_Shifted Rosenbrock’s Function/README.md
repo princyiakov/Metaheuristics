@@ -31,8 +31,6 @@ I attempted to minimize the function using various algorithms like Differential 
 ### Convergence Graph D =50
 | DE                                                                                                                                    | SA                                                                                                                                    | SADE|
 | <image src = "https://github.com/princys-lab/Metaheuristics/blob/master/F1_Shifted%20Sphere%20Function/ConvergenceCurve50.PNG" width = "500"> | <image src = "https://github.com/princys-lab/Metaheuristics/blob/master/F1_Shifted%20Sphere%20Function/ConvergenceCurve50.PNG" width = "500">|<image src = "https://github.com/princys-lab/Metaheuristics/blob/master/F1_Shifted%20Sphere%20Function/ConvergenceCurve50.PNG" width = "500">|
-
-<image src = "https://github.com/princys-lab/Metaheuristics/blob/master/F1_Shifted%20Sphere%20Function/ConvergenceCurve50.PNG" width = "500">
   
 | Result   | | 
 | --- | --- |
