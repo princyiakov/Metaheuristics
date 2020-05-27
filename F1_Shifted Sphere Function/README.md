@@ -8,29 +8,25 @@
 
 <image src = "https://github.com/princys-lab/Metaheuristics/blob/master/F1_Shifted%20Sphere%20Function/F1_GraphicalExp.PNG" width = "500">
 
-### Solution
+### Algorithm
 
-Since the function is convex and quadratic (hence with a unique minimum),
-intensification was privileged over diversification.
-In dimension 50, PSO works well with more weight on the social factor than on the cognitive one.
-In dimension 500, PSO becomes too slow and SADE works better, with a mutation variant
-which puts emphasis on the global best solution.
+The function is 1. Convex 2. Quadratic 3. Unique Minimum
+I chose BFGS Method from the Scipy Package for this function . 
 
 #### Dimension d = 50
 
-| Method  | | Results  |   |
-| --- | --- | --- | --- |
-| algorithm | PSO | best fitness | -450.000 |
-| population size | 50 | difference with global minimum | 5.11e-5 |
-| number of generations | 300 | distance of solution to optimal point | 7.15e-3 |
-| inertia weight | 0.50 | computation time | 0.8s |
-| social weight | 4.00 | number of function evaluations | 15050 |
-| cognitive weight | 2.00 |
-| swarm topology| local best |
-| neighbors to consider | 10 |
-| stopping criterion | number of generations |
+| Parameters  | | 
+| --- | --- |
+| Algorithm | BFGS |
+| Lower Limit | -100 |
+| Upper Limit | 100 |
+| f_bias | -450 |
+| Stopping Criteria  | 1e-5|
+| Number of Evaluations | 520 |
+| Computational Time| 0.46 seconds |
 
-![convergence graph](sphere_50_convergence_graph.png)
+
+![convergence graph](https://github.com/princys-lab/Metaheuristics/blob/master/F1_Shifted%20Sphere%20Function/F1_GraphicalExp.PNG)
 
 #### Dimension d = 500
 
