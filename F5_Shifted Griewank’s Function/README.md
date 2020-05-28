@@ -14,7 +14,7 @@ I attempted to minimize the function using various algorithms like Differential 
 
 ### Dimension d = 50
 
-| Parameters for CMAES  | | 
+| Parameters for PSO  | | 
 | --- | --- |
 | Algorithm | CMAES |
 | Lower Limit | -32 |
@@ -37,28 +37,28 @@ I attempted to minimize the function using various algorithms like Differential 
 
 #### Providing Details of TOP 3 performers
 
-| CMAES         | SGA       | SA|
+| PSO         | SADE       | DE|
 |------------|----------|-----|
-| <image src = "https://github.com/princys-lab/Metaheuristics/blob/master/F5_Shifted%20Griewank%E2%80%99s%20Function/ConvergenceCurve50cmaes.PNG" width = "500"> | <image src = "https://github.com/princys-lab/Metaheuristics/blob/master/F5_Shifted%20Griewank%E2%80%99s%20Function/ConvergenceCurve50sga.PNG" width = "500">|<image src = "https://github.com/princys-lab/Metaheuristics/blob/master/F5_Shifted%20Griewank%E2%80%99s%20Function/ConvergenceCurve50sa.PNG" width = "500">|
+| <image src = "https://github.com/princys-lab/Metaheuristics/blob/master/F5_Shifted%20Griewank%E2%80%99s%20Function/ConvergenceCurve50pso.PNG" width = "500"> | <image src = "https://github.com/princys-lab/Metaheuristics/blob/master/F5_Shifted%20Griewank%E2%80%99s%20Function/ConvergenceCurve50sade.PNG" width = "500">|<image src = "https://github.com/princys-lab/Metaheuristics/blob/master/F5_Shifted%20Griewank%E2%80%99s%20Function/ConvergenceCurve50de.PNG" width = "500">|
   
 | Result     |          |     | |
 |------------|----------|-----|--|
-|Factors | CMAES         | SGA       | SA|
-| Best Fitness  | -139.945 |-139.59|-138.481|
-| Number of Evaluations | 302000 |250100|10001|
-| Computational Time| 26.24 seconds |15.55 seconds|0.84 seconds|
+|Factors | PSO         | SADE       | DE|
+| Best Fitness  | -178.86 |-180.42|-183.42|
+| Number of Evaluations | 7100 |26100|15100|
+| Computational Time| 0.75 seconds |2.24 seconds|1.24 seconds|
 
 #### Best Solution  : 
-[ 27.00810703 -16.13192781   6.41065163  -0.84131944  23.47822368
-  15.72577533  -2.61185639 -28.88970367  19.28414453  -3.31793082
-   6.9259084   17.51655656  25.3085546   14.2926976  -19.4242866
-  -5.65802993  26.12815858  25.01436805  -5.38414894  23.61840428
- -26.52614755  -8.82821694  18.79001316 -29.40821687 -21.6659706
- -17.83408602 -18.07704384   6.22734918 -13.66881519 -18.07120515
- -29.08350079  14.807248    -3.29413679  25.90876985  -2.0403679
-  -4.88091877  20.77349897   1.50913082 -17.84087824  10.32849951
-  20.28706549 -28.82116924  10.87651931  -7.23098244  19.90793467
-   0.16911481  12.56820904  -4.26635329 -11.72290985 -14.39522069]
+[ 509.69427544 -287.98838611  132.96522555   -4.61206393  520.12043492
+  267.56780018  -91.47241908 -579.29379909  334.97814609 -100.36850462
+  182.97707029  345.84316807  464.73713944  289.84069998 -347.45045774
+ -135.69636456  590.32409441  473.65217332 -134.41843765  448.11530193
+ -475.12027435 -175.8239939   408.09306227 -555.56011473 -495.68819242
+ -381.58574985 -345.06103675   75.73640638 -271.11289822 -326.68668184
+ -584.48738648  219.72598983  -64.52195888  482.55066517  -61.131685
+ -130.16728364  385.90915462   74.78999224 -302.02918285  163.31692318
+  421.82247953 -580.9047399   213.26052185  -90.35326139  430.33816236
+   -1.91161646  169.39818233 -109.60753443 -186.28279349  295.93632375]
  
 #### Dimension d = 500
 
