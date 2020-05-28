@@ -1,12 +1,12 @@
-## [*Ackley's* function](http://benchmarkfcns.xyz/benchmarkfcns/ackleyfcn.html)
+## [*Rastrigin's* function](http://benchmarkfcns.xyz/benchmarkfcns/rastriginfcn.html)
 
 ### Mathematical statement
 
-<image src = "https://github.com/princys-lab/Metaheuristics/blob/master/F6_Shifted%20Ackley%E2%80%99s%20Function/F6_MathematicalExp.PNG" width = "500">
+<image src = "https://github.com/princys-lab/Metaheuristics/blob/master/F4_Shifted%20Rastrigin’s%20Function/F4_MathematicalExp.PNG" width = "500">
 
 ### Graphical representation
 
-<image src = "https://github.com/princys-lab/Metaheuristics/blob/master/F6_Shifted%20Ackley%E2%80%99s%20Function/F6_GraphicalExp.PNG" width = "500">
+<image src = "https://github.com/princys-lab/Metaheuristics/blob/master/F4_Shifted%20Rastrigin’s%20Function/F4_GraphicalExp.PNG" width = "500">
 
 ### Algorithm
 
