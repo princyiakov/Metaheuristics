@@ -1,4 +1,4 @@
-## [*Rosenbrocks* function](http://benchmarkfcns.xyz/benchmarkfcns/ackleyfcn.html)
+## [*Ackley's* function](http://benchmarkfcns.xyz/benchmarkfcns/ackleyfcn.html)
 
 ### Mathematical statement
 
