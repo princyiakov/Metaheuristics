@@ -16,17 +16,20 @@ I attempted to minimize the function using various algorithms like Differential 
 
 | Parameters for PSO  | | 
 | --- | --- |
-| Algorithm | CMAES |
-| Lower Limit | -32 |
-| Upper Limit | 32 |
-| f_bias | -140 |
+| Algorithm | PSO |
+| Lower Limit | -600 |
+| Upper Limit | 600 |
+| f_bias | -180 |
 | Stopping Criteria  | 1e-3|
-| Generations  | 500|
-| Time Constant for C cumulation (cc)  | -1|
-|  Time Constant for Sigma cumulation (cs)  | -1|
-| Learning rate for Rank-mu (cmu)  | -1|
-| Sigma0  | 0.5|
-| Population Size  | 1000|
+| Generations  | 70|
+| Maximum Velocity  | 0.5|
+| Varient  | 5|
+| Neighbour Type  | 2|
+| Neighbour parameter  | 10|
+| eta1  | 1.5|
+| eta2  | 3.0|
+| omega  | 0.55|
+| Population Size  | 100|
 
 
 
