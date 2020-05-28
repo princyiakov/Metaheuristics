@@ -10,11 +10,11 @@
 
 ### Algorithm
 
-I attempted to minimize the function using various algorithms like Differential Evolution, Simulated Annealing,Covariance Matrix Adaptation-ES,Simple Genetic Algorithm,Particle Swarm Optimization and Sade ,out of which Covariance Matrix Adaptation-ES(CMAES) provided the best fitness and stable convergence curve for D= 50. However, for D=500 , CMAES took exceptionally long time and SADE outperformed by giving the best results with least computational time . 
+I attempted to minimize the function using various algorithms like Differential Evolution, Simulated Annealing,Covariance Matrix Adaptation-ES,Simple Genetic Algorithm and Sade ,out of which Simple Genetic Algorithm (SGA) provided the best fitness and stable convergence curve for D= 50. For D=500 ,  SADE gave  the best Fitness . 
 
 ### Dimension d = 50
 
-| Parameters for CMAES  | | 
+| Parameters for SGA  | | 
 | --- | --- |
 | Algorithm | CMAES |
 | Lower Limit | -32 |
@@ -37,13 +37,13 @@ I attempted to minimize the function using various algorithms like Differential 
 
 #### Providing Details of TOP 3 performers
 
-| CMAES         | SGA       | SA|
+|  SGA  | CMAES       | SA|
 |------------|----------|-----|
 | <image src = "https://github.com/princys-lab/Metaheuristics/blob/master/F6_Shifted%20Ackley%E2%80%99s%20Function/ConvergenceCurve50cmaes.PNG" width = "500"> | <image src = "https://github.com/princys-lab/Metaheuristics/blob/master/F6_Shifted%20Ackley%E2%80%99s%20Function/ConvergenceCurve50sga.PNG" width = "500">|<image src = "https://github.com/princys-lab/Metaheuristics/blob/master/F6_Shifted%20Ackley%E2%80%99s%20Function/ConvergenceCurve50sa.PNG" width = "500">|
   
 | Result     |          |     | |
 |------------|----------|-----|--|
-|Factors | CMAES         | SGA       | SA|
+|Factors |  SGA  | CMAES       | SA|
 | Best Fitness  | -139.945 |-139.59|-138.481|
 | Number of Evaluations | 302000 |250100|10001|
 | Computational Time| 26.24 seconds |15.55 seconds|0.84 seconds|
@@ -74,18 +74,18 @@ I attempted to minimize the function using various algorithms like Differential 
 | Varient  | 2|
 | Population Size  | 50|
 
-#### Providing Details of TOP 3 performers
+#### Providing Details of SADE
 
-| SADE         | DE       | SA|
-|------------|----------|-----|
-| <image src = "https://github.com/princys-lab/Metaheuristics/blob/master/F6_Shifted%20Ackley%E2%80%99s%20Function/ConvergenceCurve500sade.PNG" width = "500"> | <image src = "https://github.com/princys-lab/Metaheuristics/blob/master/F6_Shifted%20Ackley%E2%80%99s%20Function/ConvergenceCurve500de.PNG" width = "500">|<image src = "https://github.com/princys-lab/Metaheuristics/blob/master/F6_Shifted%20Ackley%E2%80%99s%20Function/ConvergenceCurve500sa.PNG" width = "500">|
+| SADE         |
+|------------|
+| <image src = "https://github.com/princys-lab/Metaheuristics/blob/master/F6_Shifted%20Ackley%E2%80%99s%20Function/ConvergenceCurve500sade.PNG" width = "500"> | 
   
-| Result     |          |     | |
-|------------|----------|-----|--|
-|Factors |  SADE      | DE       | SA|
-| Best Fitness  | -139.991 |-139.994|-137.7|
-| Number of Evaluations | 557200 |2000100|100001|
-| Computational Time| 300.90 seconds |1135.82 seconds|57 seconds|
+| Result     | 
+|------------|
+|Factors |  SADE      |
+| Best Fitness  | -139.991 |
+| Number of Evaluations | 557200 |
+| Computational Time| 300.90 seconds |
 
 #### Best Solution  :
  [ 27.00778865 -16.13170858   6.40949023  -0.84256646  23.4779387
