@@ -16,16 +16,16 @@ I attempted to minimize the function using various algorithms like Differential 
 
 | Parameters for SGA  | | 
 | --- | --- |
-| Algorithm | CMAES |
-| Lower Limit | -32 |
-| Upper Limit | 32 |
-| f_bias | -140 |
-| Stopping Criteria  | 1e-3|
-| Generations  | 500|
-| Time Constant for C cumulation (cc)  | -1|
-|  Time Constant for Sigma cumulation (cs)  | -1|
-| Learning rate for Rank-mu (cmu)  | -1|
-| Sigma0  | 0.5|
+| Algorithm | SGA |
+| Lower Limit | -5 |
+| Upper Limit | 5 |
+| f_bias | -330 |
+| Stopping Criteria  | No improvement in future generations|
+| Generations  | 2500|
+| Crossover  | binomial|
+| crossover factor | 0.9|
+| mutation factor | 0.02|
+| selection  |truncated|
 | Population Size  | 1000|
 
 
@@ -39,26 +39,25 @@ I attempted to minimize the function using various algorithms like Differential 
 
 |  SGA  | CMAES       | SA|
 |------------|----------|-----|
-| <image src = "https://github.com/princys-lab/Metaheuristics/blob/master/F6_Shifted%20Ackley%E2%80%99s%20Function/ConvergenceCurve50cmaes.PNG" width = "500"> | <image src = "https://github.com/princys-lab/Metaheuristics/blob/master/F6_Shifted%20Ackley%E2%80%99s%20Function/ConvergenceCurve50sga.PNG" width = "500">|<image src = "https://github.com/princys-lab/Metaheuristics/blob/master/F6_Shifted%20Ackley%E2%80%99s%20Function/ConvergenceCurve50sa.PNG" width = "500">|
+| <image src = "https://github.com/princys-lab/Metaheuristics/blob/master/F4_Shifted%20Rastrigin’s%20Function/ConvergenceCurve50sga.PNG" width = "500"> | <image src = "https://github.com/princys-lab/Metaheuristics/blob/master/F4_Shifted%20Rastrigin’s%20Function/ConvergenceCurve50cmaes.PNG" width = "500">|<image src = "https://github.com/princys-lab/Metaheuristics/blob/master/F4_Shifted%20Rastrigin’s%20Function/ConvergenceCurve50sa.PNG" width = "500">|
   
 | Result     |          |     | |
 |------------|----------|-----|--|
 |Factors |  SGA  | CMAES       | SA|
-| Best Fitness  | -139.945 |-139.59|-138.481|
-| Number of Evaluations | 302000 |250100|10001|
-| Computational Time| 26.24 seconds |15.55 seconds|0.84 seconds|
+| Best Fitness  | -329.906|-329.0047|-327.01|
+| Number of Evaluations | 1250500 |433000|10001|
+| Computational Time| 102.03 seconds |46.89 seconds|1.04 seconds|
 
 #### Best Solution  : 
-[ 27.00810703 -16.13192781   6.41065163  -0.84131944  23.47822368
-  15.72577533  -2.61185639 -28.88970367  19.28414453  -3.31793082
-   6.9259084   17.51655656  25.3085546   14.2926976  -19.4242866
-  -5.65802993  26.12815858  25.01436805  -5.38414894  23.61840428
- -26.52614755  -8.82821694  18.79001316 -29.40821687 -21.6659706
- -17.83408602 -18.07704384   6.22734918 -13.66881519 -18.07120515
- -29.08350079  14.807248    -3.29413679  25.90876985  -2.0403679
-  -4.88091877  20.77349897   1.50913082 -17.84087824  10.32849951
-  20.28706549 -28.82116924  10.87651931  -7.23098244  19.90793467
-   0.16911481  12.56820904  -4.26635329 -11.72290985 -14.39522069]
+[ 3.84799381  4.32480316 -2.82653552  0.64821933  4.33909253  2.44309887
+ -3.45913078  2.33674294  3.9803252   4.28446721  2.37567029  3.22506665
+ -0.02195077  4.62124134  4.60855893  0.99388141  1.60351092 -4.72817905
+ -2.6982483   1.03539677 -3.20543304  3.80017882 -2.67703642 -3.23158487
+  4.41271119  0.72005686 -4.42010049  1.4835092   0.73729634  2.182218
+ -3.27807453  2.78099356  3.59681738 -4.72006312  0.51654696 -3.60476384
+ -3.20476569  0.4608389  -2.02894442 -0.39466131 -3.770978    4.96577103
+  4.31777609  3.35606483 -4.87207557  4.8300754   0.21333502 -4.27448324
+  3.68472771 -0.70952713]
  
 #### Dimension d = 500
 
@@ -78,7 +77,7 @@ I attempted to minimize the function using various algorithms like Differential 
 
 | SADE         |
 |------------|
-| <image src = "https://github.com/princys-lab/Metaheuristics/blob/master/F6_Shifted%20Ackley%E2%80%99s%20Function/ConvergenceCurve500sade.PNG" width = "500"> | 
+| <image src = "https://github.com/princys-lab/Metaheuristics/blob/master/F4_Shifted%20Rastrigin’s%20Function/ConvergenceCurve500sade.PNG" width = "500"> | 
   
 | Result     | 
 |------------|
