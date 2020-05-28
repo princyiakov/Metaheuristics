@@ -70,10 +70,10 @@ I attempted to minimize the function using various algorithms like Differential 
   
 | Result     |          |     | |
 |------------|----------|-----|--|
-|Factors | | SADE         | DE       | SA|
+|Factors |  SADE      | DE       | SA|
 | Best Fitness  | -139.991 |-139.994|-137.7|
 | Number of Evaluations | 557200 |2000100|100001|
-| Computational Time| 300.90 seconds |15.55 seconds|0.84 seconds|
+| Computational Time| 300.90 seconds |1135.82 seconds|57 seconds|
 
 #### Best Solution  :
  [ 27.00778865 -16.13170858   6.40949023  -0.84256646  23.4779387
