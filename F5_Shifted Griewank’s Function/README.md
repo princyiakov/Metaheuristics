@@ -10,7 +10,7 @@
 
 ### Algorithm
 
-I attempted to minimize the function using various algorithms like Differential Evolution, Simulated Annealing,Covariance Matrix Adaptation-ES,Simple Genetic Algorithm,Particle Swarm Optimization and Sade ,out of which Covariance Matrix Adaptation-ES(CMAES) provided the best fitness and stable convergence curve for D= 50. However, for D=500 , CMAES took exceptionally long time and SADE outperformed by giving the best results with least computational time . 
+I attempted to minimize the function using various algorithms like Differential Evolution, Simulated Annealing,Covariance Matrix Adaptation-ES,Simple Genetic Algorithm,Particle Swarm Optimization and Sade ,out of which Particle Swarm Optimization (PSO) provided the best fitness ,stable convergence curve and least computational time  for D= 50. However, for D=500 , CMAES took exceptionally long time and SADE outperformed by giving the best results with least computational time . 
 
 ### Dimension d = 50
 
