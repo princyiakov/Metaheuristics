@@ -2,11 +2,11 @@
 
 ### Mathematical statement
 
-<image src = "https://github.com/princys-lab/Metaheuristics/tree/master/F6_Shifted%20Ackley%E2%80%99s%20Function/F6_MathematicalExp.PNG" width = "500">
+<image src = "https://github.com/princys-lab/Metaheuristics/blob/master/F6_Shifted%20Ackley%E2%80%99s%20Function/F6_MathematicalExp.PNG" width = "500">
 
 ### Graphical representation
 
-<image src = "https://github.com/princys-lab/Metaheuristics/tree/master/F6_Shifted%20Ackley%E2%80%99s%20Function/F6_GraphicalExp.PNG" width = "500">
+<image src = "https://github.com/princys-lab/Metaheuristics/blob/master/F6_Shifted%20Ackley%E2%80%99s%20Function/F6_GraphicalExp.PNG" width = "500">
 
 ### Algorithm
 
