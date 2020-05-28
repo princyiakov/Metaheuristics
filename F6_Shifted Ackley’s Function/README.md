@@ -39,7 +39,7 @@ I attempted to minimize the function using various algorithms like Differential 
 
 | CMAES         | SGA       | SA|
 |------------|----------|-----|
-| <image src = "https://github.com/princys-lab/Metaheuristics/tree/master/F6_Shifted%20Ackley%E2%80%99s%20Function//ConvergenceCurve50cmaes.PNG" width = "500"> | <image src = "https://github.com/princys-lab/Metaheuristics/tree/master/F6_Shifted%20Ackley%E2%80%99s%20Function//ConvergenceCurve50sga.PNG" width = "500">|<image src = "https://github.com/princys-lab/Metaheuristics/tree/master/F6_Shifted%20Ackley%E2%80%99s%20Function//ConvergenceCurve50sa.PNG" width = "500">|
+| <image src = "https://github.com/princys-lab/Metaheuristics/blob/master/F6_Shifted%20Ackley%E2%80%99s%20Function/ConvergenceCurve50cmaes.PNG" width = "500"> | <image src = "https://github.com/princys-lab/Metaheuristics/blob/master/F6_Shifted%20Ackley%E2%80%99s%20Function/ConvergenceCurve50sga.PNG" width = "500">|<image src = "https://github.com/princys-lab/Metaheuristics/blob/master/F6_Shifted%20Ackley%E2%80%99s%20Function/ConvergenceCurve50sa.PNG" width = "500">|
   
 | Result     |          |     | |
 |------------|----------|-----|--|
