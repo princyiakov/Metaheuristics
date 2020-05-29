@@ -11,7 +11,7 @@
 ### Algorithm
 
 The function is 1. Convex 2. Quadratic 3. Unique Minimum
-I chose BFGS Method from the Scipy Package for this function . 
+I chose 'Nelder-Mead' Method from the Scipy Package for this function . 
 
 ### Dimension d = 50
 
