@@ -1,4 +1,4 @@
-## [*Travelling Salesman Problem *](https://en.wikipedia.org/wiki/Travelling_salesman_problem)
+## [*Travelling Salesman Problem*](https://en.wikipedia.org/wiki/Travelling_salesman_problem)
 
 ## 38 cities (Djibouti)
 
