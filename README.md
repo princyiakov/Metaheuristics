@@ -4,7 +4,7 @@
 
 ## Discrete Optimization Problem 
 
- [TSP](https://github.com/princys-lab/Metaheuristics/tree/master/TSP)
+1. [Travelling Salesman problem for 38 and 194 Cities](https://github.com/princys-lab/Metaheuristics/tree/master/TSP)
 
 
 ## Continuous Optimization Problems : 
