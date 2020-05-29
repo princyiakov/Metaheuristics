@@ -1,6 +1,6 @@
 ## [*Travelling Salesman Problem*](https://en.wikipedia.org/wiki/Travelling_salesman_problem)
 
-## 38 cities (Djibouti)
+
 
 ### Objective 
 
@@ -8,7 +8,9 @@ Find the shortest route going through each city without visiting the same twice.
 
 ### Solution 
 
-I chose the OR tools to find the shourtest route  
+I chose the OR tools to find the shortest route  
+
+## 38 cities (Djibouti)
 
 ### Input Provided 
 
