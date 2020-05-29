@@ -62,7 +62,7 @@ I attempted to minimize the function using various algorithms like Differential 
 | f_bias | 390 |
 | Stopping Criteria  | 1e-6|
 
-### Convergence Graph D =50
+### Convergence Graph D =500
 
  <image src = "https://github.com/princys-lab/Metaheuristics/blob/master/F3_Shifted%20Rosenbrock%E2%80%99s%20Function/ConvergenceCurve500sa.PNG" width = "500">
 
