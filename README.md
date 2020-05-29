@@ -4,9 +4,8 @@
 
 ## Discrete Optimization Problem 
 
-1. [TSP_Djibouti](https://github.com/princys-lab/Metaheuristics/tree/master/TSP_Djibouti)
+ [TSP](https://github.com/princys-lab/Metaheuristics/tree/master/TSP)
 
-2. [TSP_Qatar](https://github.com/princys-lab/Metaheuristics/tree/master/TSP_Qatar)
 
 ## Continuous Optimization Problems : 
 
