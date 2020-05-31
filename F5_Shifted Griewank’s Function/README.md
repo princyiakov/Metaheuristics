@@ -83,8 +83,8 @@ I attempted to minimize the function using various algorithms like Differential 
 |------------|
 | <image src = "https://github.com/princys-lab/Metaheuristics/blob/master/F5_Shifted%20Griewank%E2%80%99s%20Function/ConvergenceCurve500sade.PNG" width = "500"> | 
   
-| Result     |
-|------------|
+| Result     ||
+|------------||
 |Factors |  SADE      |
 | Best Fitness  | -179.99 |
 | Number of Evaluations | 1000050 |
